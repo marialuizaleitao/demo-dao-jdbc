@@ -4,9 +4,6 @@
 
 This project dives into JDBC, a tool for connecting Java applications with relational databases. It blends theory and hands-on practice to equip developers with skills for robust and scalable Java applications. The project focuses on manually implementing the DAO (Data Access Object) pattern, an approach for encapsulating data access logic and ensuring loose coupling between application layers.
 
-![diagram](https://github.com/marialuizaleitao/demo-dao-jdbc/assets/88951059/0c89e707-e199-484d-a2de-5673c7b22b1b)
-
-
 ## Technologies Used
 
 `Java`: Core functionality development.<br/>
