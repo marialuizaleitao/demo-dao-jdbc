@@ -53,7 +53,7 @@ public class Department implements Serializable {
 
 	@Override
 	public String toString() {
-		return "Department \nId: " + this.getId() + "\nName: " + this.getName();
+		return "\nDepartment \nId: " + this.getId() + "\nName: " + this.getName();
 	}
 
 }
